@@ -11,7 +11,7 @@ public class TestDB {
 	
 	final static String DB_URL="jdbc:oracle:thin:@db2022rnaguban_high";
     final static String DB_USER = "ADMINUSER";
-    final static String DB_PASSWORD = "Nagubandi1982$";
+    final static String DB_PASSWORD = "*********";
 
 	public static void main(String[] args) throws SQLException, ClassNotFoundException {
 		System.setProperty("oracle.net.tns_admin","D:\\Oracle-Cloud-Repo\\network\\admin");
